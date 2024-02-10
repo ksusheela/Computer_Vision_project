@@ -5,6 +5,7 @@ from Xray.components.model_training import ModelTrainer
 from Xray.components.model_evaluation import ModelEvaluation
 from Xray.exception import XRayException
 from Xray.logger import logging
+
 from Xray.entity.artifact_entity import (
     DataIngestionArtifact,
     DataTransformationArtifact,
