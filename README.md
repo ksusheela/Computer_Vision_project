@@ -41,3 +41,8 @@ AWS_REGION = us-east-1
 BentoML demo repo:
 
 https://github.com/entbappy/bentoml-demo
+
+01_Data_Ingestion_flowchart.png
+02_Data_transformation_flowchart.png
+03_model_training_flowchart.png
+
