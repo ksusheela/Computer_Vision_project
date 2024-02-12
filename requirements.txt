@@ -1,5 +1,6 @@
 bentoml
 torchvison
+torch
 joblib
 tqdm
 pip-chill

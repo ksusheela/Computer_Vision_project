@@ -4,6 +4,7 @@ pip-chill==1.0.1
 torchvision==0.14.1
 tqdm==4.64.1
 wincertstore==0.2
+torch
 dvc
 mlflow
 ipykernel
